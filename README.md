@@ -1,7 +1,7 @@
 # Auction_House
 Analysis of WoW Auction House Prices
 
-The files in data each represent one day of hourly data from the WoW API. Run through 
+The files in data each represent one hour of data from the WoW API. Run through 
 process_all_to_csv.ipynb to combine the JSON files and create a new CSV
 with all data for analysis and visualization. Please make sure to follow warning
 in the first cell about adding the soon to be generated filename to your
