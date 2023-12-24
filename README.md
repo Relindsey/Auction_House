@@ -28,9 +28,9 @@ All of the data in the data folder looks like:
 As of now there are 49 hours worth of data, supposedly consisting of:
 
 ```
-Total items: 13811935
+Total items: 13,811,935
 Items missing name: 7
-Items missing class: 1403125
+Items missing class: 1,403,125
 Items missing both name and class: 7
 ```
 
