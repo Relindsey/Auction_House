@@ -161,3 +161,6 @@ cython_debug/
 
 # Generated data files
 commodities_data.csv
+
+# random readme file
+README2.md

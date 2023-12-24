@@ -1,12 +1,33 @@
 # Auction_House
 Analysis of WoW Auction House Prices
 
-Fetch and process new data, run: ./process_new_data.sh
+The files in data each represent hourly data from the WoW API. Run through 
+process_all_to_csv.ipynb to combine the JSON files and create a new CSV
+will all data for analysis and visualization. Please make sure to follow warning
+in the first cell about adding the soon to be generated filename to your
+.gitignore before running it the first time. The generated file is too large to
+push to Github and forgetting to include the name in the gitignore before the file 
+is generated is no fun.
 
-get new data steps:
+All of the data in the data folder looks like:
 
-terminal: aws s3 sync s3://{bucket-name} ./raw-data
-run: get_unique_item_ids.py
-run: get_item_details.py
-run: add_timestamp_and_details.py
-merge all files to create commodities_data.csv: process_all_to_csv.ipynb
+{
+    "id": 1876585297,
+    "item": {
+        "id": 198196,
+        "name": "Arclight Capacitor",
+        "class": "Trade Goods"
+        },
+    "quantity": 1,
+    "unit_price": 5250000,
+    "time_left": "SHORT"
+},
+
+As of now there are 49 hours worth of data, supposedly consisting of:
+
+Total items: 13811935
+Items missing name: 7
+Items missing class: 1403125
+Items missing both name and class: 7
+
+If anyone finds any issues with the data please let me know!
