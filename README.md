@@ -11,7 +11,7 @@ is generated is no fun.
 
 All of the data in the data folder looks like:
 
-{
+```{
     "id": 1876585297,
     "item": {
         "id": 198196,
@@ -21,13 +21,13 @@ All of the data in the data folder looks like:
     "quantity": 1,
     "unit_price": 5250000,
     "time_left": "SHORT"
-},
+},```
 
 As of now there are 49 hours worth of data, supposedly consisting of:
 
-Total items: 13811935
+```Total items: 13811935
 Items missing name: 7
 Items missing class: 1403125
-Items missing both name and class: 7
+Items missing both name and class: 7```
 
 If anyone finds any issues with the data please let me know!
