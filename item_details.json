@@ -33070,5 +33070,454 @@
     },
     "32758": {
         "name": "Brute Cologne"
+    },
+    "33234": {
+        "name": "Iced Berry Slush",
+        "class": "Consumables"
+    },
+    "729": {
+        "name": "Stringy Vulture Meat",
+        "class": "Trade Goods"
+    },
+    "730": {
+        "name": "Murloc Eye",
+        "class": "Trade Goods"
+    },
+    "731": {
+        "name": "Goretusk Snout",
+        "class": "Trade Goods"
+    },
+    "732": {
+        "name": "Ripe Okra",
+        "class": "Trade Goods"
+    },
+    "1274": {
+        "name": "Hops"
+    },
+    "66949": {
+        "name": "Wildhammer Book of Verse",
+        "class": "Miscellaneous"
+    },
+    "198043": {
+        "name": "Stealthy Elven Port",
+        "class": "Consumables"
+    },
+    "198044": {
+        "name": "Whirlwind Wine",
+        "class": "Consumables"
+    },
+    "1476": {
+        "name": "Snapped Spider Limb",
+        "class": "Miscellaneous"
+    },
+    "67310": {
+        "name": "Demon Hair",
+        "class": "Miscellaneous"
+    },
+    "2296": {
+        "name": "Great Goretusk Snout",
+        "class": "Miscellaneous"
+    },
+    "133981": {
+        "name": "Raw Cavescale",
+        "class": "Consumables"
+    },
+    "3172": {
+        "name": "Boar Intestines",
+        "class": "Trade Goods"
+    },
+    "200305": {
+        "name": "Dracthyr Water Rations",
+        "class": "Consumables"
+    },
+    "36788": {
+        "name": "Matted Fur",
+        "class": "Miscellaneous"
+    },
+    "200818": {
+        "name": "Eternal Flame",
+        "class": "Consumables"
+    },
+    "5057": {
+        "name": "Ripe Watermelon",
+        "class": "Consumables"
+    },
+    "5118": {
+        "name": "Large Flat Tooth",
+        "class": "Miscellaneous"
+    },
+    "176867": {
+        "name": "Fractured Shackle",
+        "class": "Miscellaneous"
+    },
+    "5377": {
+        "name": "Scallop Shell",
+        "class": "Miscellaneous"
+    },
+    "136576": {
+        "name": "Family Engraving",
+        "class": "Miscellaneous"
+    },
+    "40213": {
+        "name": "Mighty Arcane Protection Potion",
+        "class": "Consumables"
+    },
+    "40215": {
+        "name": "Mighty Frost Protection Potion",
+        "class": "Consumables"
+    },
+    "40357": {
+        "name": "Grizzleberry Juice",
+        "class": "Consumables"
+    },
+    "40356": {
+        "name": "Grizzleberries",
+        "class": "Consumables"
+    },
+    "40358": {
+        "name": "Raw Tallhorn Chunk",
+        "class": "Consumables"
+    },
+    "7807": {
+        "name": "Candy Bar",
+        "class": "Consumables"
+    },
+    "138884": {
+        "name": "Throwing Sausage",
+        "class": "Miscellaneous"
+    },
+    "8068": {
+        "name": "Crafted Heavy Shot",
+        "class": "Miscellaneous"
+    },
+    "139317": {
+        "name": "Broken Ancient Weapon",
+        "class": "Miscellaneous"
+    },
+    "139316": {
+        "name": "Moldy Scrap of Parchment",
+        "class": "Miscellaneous"
+    },
+    "172147": {
+        "name": "Nugget Honey",
+        "class": "Miscellaneous"
+    },
+    "41097": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "41540": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "140203": {
+        "name": "'Natural' Highmountain Spring Water",
+        "class": "Consumables"
+    },
+    "42398": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "10457": {
+        "name": "Empty Sea Snail Shell",
+        "class": "Miscellaneous"
+    },
+    "43236": {
+        "name": "Star's Sorrow",
+        "class": "Consumables"
+    },
+    "10512": {
+        "name": "Hi-Impact Mithril Slugs",
+        "class": "Miscellaneous"
+    },
+    "10513": {
+        "name": "Mithril Gyro-Shot",
+        "class": "Miscellaneous"
+    },
+    "43338": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43658": {
+        "name": "Partially Rusted File",
+        "class": "Miscellaneous"
+    },
+    "44084": {
+        "name": "Forlorn Starflare Diamond",
+        "class": "Gems"
+    },
+    "44605": {
+        "name": "Wild Spineleaf",
+        "class": "Miscellaneous"
+    },
+    "44779": {
+        "name": "Swatch of Gorilla Hair",
+        "class": "Miscellaneous"
+    },
+    "12432": {
+        "name": "Shardtooth E'ko"
+    },
+    "143636": {
+        "name": "Arcane Splint",
+        "class": "Consumables"
+    },
+    "45602": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "45790": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "176863": {
+        "name": "Virulent Gland",
+        "class": "Miscellaneous"
+    },
+    "176870": {
+        "name": "Skeletal Tusk",
+        "class": "Miscellaneous"
+    },
+    "176875": {
+        "name": "Crooked Horn",
+        "class": "Miscellaneous"
+    },
+    "45901": {
+        "name": "Homemade Fish Fry",
+        "class": "Consumables"
+    },
+    "13364": {
+        "name": "Ezra Grimm's Advertisement",
+        "class": "Miscellaneous"
+    },
+    "178126": {
+        "name": "Sinew-Wrapped Hilt",
+        "class": "Miscellaneous"
+    },
+    "178172": {
+        "name": "Abrasive Sand",
+        "class": "Miscellaneous"
+    },
+    "178548": {
+        "name": "Tea Bones",
+        "class": "Consumables"
+    },
+    "179275": {
+        "name": "Cabbage Wrapped Minced Mite",
+        "class": "Consumables"
+    },
+    "180346": {
+        "name": "Nail-Worked Crystalware",
+        "class": "Miscellaneous"
+    },
+    "180348": {
+        "name": "Ornate Filigreed Harp",
+        "class": "Miscellaneous"
+    },
+    "180623": {
+        "name": "Torn Rune-Etched Page",
+        "class": "Miscellaneous"
+    },
+    "49619": {
+        "name": "Broken Monkey Fang",
+        "class": "Miscellaneous"
+    },
+    "49624": {
+        "name": "Tiny Scaly Tail",
+        "class": "Miscellaneous"
+    },
+    "17030": {
+        "name": "Ankh",
+        "class": "Miscellaneous"
+    },
+    "182707": {
+        "name": "Discarded Hand-Wraps",
+        "class": "Miscellaneous"
+    },
+    "182708": {
+        "name": "Wood Carved Chomper Protector",
+        "class": "Miscellaneous"
+    },
+    "118416": {
+        "name": "Fish Roe",
+        "class": "Consumables"
+    },
+    "20498": {
+        "name": "Silithid Chitin",
+        "class": "Miscellaneous"
+    },
+    "21031": {
+        "name": "Cabbage Kimchi",
+        "class": "Consumables"
+    },
+    "54469": {
+        "name": "Blank Slate",
+        "class": "Miscellaneous"
+    },
+    "10840": {
+        "name": "Crystallized Note",
+        "class": "Miscellaneous"
+    },
+    "54619": {
+        "name": "Banana Peel",
+        "class": "Miscellaneous"
+    },
+    "22529": {
+        "name": "Savage Frond",
+        "class": "Miscellaneous"
+    },
+    "56241": {
+        "name": "Unmarred Snake Skull",
+        "class": "Miscellaneous"
+    },
+    "23988": {
+        "name": "Mutated Vine",
+        "class": "Miscellaneous"
+    },
+    "76589": {
+        "name": "Perfect Confounded Alexandrite",
+        "class": "Gems"
+    },
+    "92049": {
+        "name": "Mercenary Contract: Mage",
+        "class": "Consumables"
+    },
+    "92051": {
+        "name": "Mercenary Contract: Priest",
+        "class": "Consumables"
+    },
+    "92052": {
+        "name": "Mercenary Contract: Druid",
+        "class": "Consumables"
+    },
+    "92054": {
+        "name": "Mercenary Contract: Rogue",
+        "class": "Consumables"
+    },
+    "92055": {
+        "name": "Mercenary Contract: Shaman",
+        "class": "Consumables"
+    },
+    "92550": {
+        "name": "Counterfeit Scroll",
+        "class": "Miscellaneous"
+    },
+    "200776": {
+        "name": "Igneous Rock Sculpture",
+        "class": "Consumables"
+    },
+    "200839": {
+        "name": "Magical Cleaning Broom",
+        "class": "Consumables"
+    },
+    "200846": {
+        "name": "Fletching-less Arrows",
+        "class": "Consumables"
+    },
+    "60268": {
+        "name": "Hobo Surprise",
+        "class": "Consumables"
+    },
+    "158805": {
+        "name": "Soft Turtle Shell",
+        "class": "Miscellaneous"
+    },
+    "158811": {
+        "name": "Ashen Coal",
+        "class": "Miscellaneous"
+    },
+    "158844": {
+        "name": "Shimmerdust",
+        "class": "Miscellaneous"
+    },
+    "28467": {
+        "name": "Smooth Amber",
+        "class": "Gems"
+    },
+    "28470": {
+        "name": "Subtle Amber",
+        "class": "Gems"
+    },
+    "44765": {
+        "name": "Dented Hoof",
+        "class": "Miscellaneous"
+    },
+    "44777": {
+        "name": "Spiral Fang",
+        "class": "Miscellaneous"
+    },
+    "94535": {
+        "name": "Grilled Dinosaur Haunch",
+        "class": "Consumables"
+    },
+    "62005": {
+        "name": "Two of the Winds",
+        "class": "Trade Goods"
+    },
+    "160328": {
+        "name": "Enchant Bracers - Safe Hearthing",
+        "class": "Consumables"
+    },
+    "201202": {
+        "name": "Squirrel Tail",
+        "class": "Miscellaneous"
+    },
+    "201207": {
+        "name": "Shells in a Conch",
+        "class": "Miscellaneous"
+    },
+    "201209": {
+        "name": "Nibbled Fish Head",
+        "class": "Miscellaneous"
+    },
+    "62452": {
+        "name": "Velvet Ear",
+        "class": "Miscellaneous"
+    },
+    "128016": {
+        "name": "Steelforged Essence",
+        "class": "Trade Goods"
+    },
+    "12430": {
+        "name": "Frostsaber E'ko"
+    },
+    "62672": {
+        "name": "South Island Iced Tea",
+        "class": "Consumables"
+    },
+    "62772": {
+        "name": "Drop of Slime",
+        "class": "Miscellaneous"
+    },
+    "128385": {
+        "name": "Elemental-Distilled Water",
+        "class": "Consumables"
+    },
+    "128730": {
+        "name": "Seven of Dominion",
+        "class": "Trade Goods"
+    },
+    "63347": {
+        "name": "Sack of Grain",
+        "class": "Miscellaneous"
+    },
+    "162567": {
+        "name": "Aged Alpaca Ricotta",
+        "class": "Consumables"
+    },
+    "32207": {
+        "name": "Smooth Lionseye",
+        "class": "Gems"
+    },
+    "163580": {
+        "name": "Delicate Cathedral of Light Replica",
+        "class": "Miscellaneous"
+    },
+    "163606": {
+        "name": "Note From Leo",
+        "class": "Miscellaneous"
+    },
+    "9261": {
+        "name": "Lead Ore",
+        "class": "Miscellaneous"
     }
 }

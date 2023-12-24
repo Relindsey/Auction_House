@@ -15,8 +15,12 @@ def process_json_files(folder_path):
     initial_unique_ids_count = len(unique_item_ids)
     files_processed = False  # Flag to check if any new file was processed
 
+    print("Previously processed files:", processed_files)
+    print("Files in the folder:")
+
     # Traverse through all files in the folder
     for filename in os.listdir(folder_path):
+        print(filename)  # Print each filename in the folder
         if filename.endswith('.json') and filename not in processed_files:
             files_processed = True  # Mark that a new file is processed
             file_path = os.path.join(folder_path, filename)
@@ -34,8 +38,10 @@ def process_json_files(folder_path):
 
                 # Add filename to processed files
                 processed_files.add(filename)
+        else:
+            print(f"Skipping already processed file: {filename}")
 
-    # Write to item-names.json
+    # Write to unique_item_ids.json
     output_data = {
         'unique_item_ids': list(unique_item_ids),
         'processed_files': list(processed_files)
@@ -53,7 +59,7 @@ def process_json_files(folder_path):
     if not files_processed:
         print("All files in the data folder have been processed.")
 
-    print("Data written to unique-item-ids.json")
+    print("Data written to unique_item_ids.json")
 
 # Replace 'data' with the path to your data folder
 process_json_files('data')
