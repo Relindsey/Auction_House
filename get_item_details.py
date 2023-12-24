@@ -1,6 +1,6 @@
 # Get item names from wowhead.com and save them to item_names.json
 # Based on this post: https://www.wowhead.com/forums/topic/wowhead-api-for-items-characters-etc-187530
-# Calls the wowhead item page by id and scrapes the XML for the item name, saves all to item_details.json
+# Calls the wowhead item page by id and scrapes the XML for the item name and class, then saves all to item_details.json
 
 import json
 import requests
