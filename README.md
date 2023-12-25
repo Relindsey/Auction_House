@@ -25,10 +25,10 @@ All of the data in the data folder looks like:
 },
 ```
 ```
-Total items: 20807322
-Items missing name: 1639
-Items missing class: 2069310
-Items missing both name and class: 1639
+Total items: 20,807,322
+Items missing name: 1,639
+Items missing class: 2,069,310
+Items missing both name and class: 1,639
 ```
 
 If anyone finds any issues with the data please let me know!
