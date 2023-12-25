@@ -24,14 +24,11 @@ All of the data in the data folder looks like:
     "time_left": "SHORT"
 },
 ```
-
-As of now there are 49 hours worth of data, supposedly consisting of:
-
 ```
-Total items: 13,811,935
-Items missing name: 7
-Items missing class: 1,403,125
-Items missing both name and class: 7
+Total items: 20807322
+Items missing name: 1639
+Items missing class: 2069310
+Items missing both name and class: 1639
 ```
 
 If anyone finds any issues with the data please let me know!

@@ -33519,5 +33519,29 @@
     "9261": {
         "name": "Lead Ore",
         "class": "Miscellaneous"
+    },
+    "67484": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "40082": {
+        "name": "Mixture of the Frost Wyrm",
+        "class": "Consumables"
+    },
+    "43522": {
+        "name": "Slimming Ankle Bracelet",
+        "class": "Miscellaneous"
+    },
+    "45747": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "49627": {
+        "name": "Broken Fishbones",
+        "class": "Miscellaneous"
+    },
+    "49626": {
+        "name": "Dented Fish Scale",
+        "class": "Miscellaneous"
     }
 }
