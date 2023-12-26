@@ -33543,5 +33543,383 @@
     "49626": {
         "name": "Dented Fish Scale",
         "class": "Miscellaneous"
+    },
+    "132194": {
+        "name": "Glove and Hand",
+        "class": "Consumables"
+    },
+    "67257": {
+        "name": "Kaja'mite Powder",
+        "class": "Miscellaneous"
+    },
+    "36806": {
+        "name": "Perfectly Rounded Foot",
+        "class": "Miscellaneous"
+    },
+    "4096": {
+        "name": "Coarse Gorilla Hair",
+        "class": "Miscellaneous"
+    },
+    "69955": {
+        "name": "Slimy Locket",
+        "class": "Miscellaneous"
+    },
+    "40123": {
+        "name": "Brilliant Cardinal Ruby",
+        "class": "Gems"
+    },
+    "169296": {
+        "name": "Defiled Soul",
+        "class": "Miscellaneous"
+    },
+    "38520": {
+        "name": "Diving Log",
+        "class": "Miscellaneous"
+    },
+    "71376": {
+        "name": "Lava Ruby",
+        "class": "Miscellaneous"
+    },
+    "5871": {
+        "name": "Large Hoof",
+        "class": "Miscellaneous"
+    },
+    "39551": {
+        "name": "Stewing Ichor",
+        "class": "Miscellaneous"
+    },
+    "39911": {
+        "name": "Brilliant Bloodstone",
+        "class": "Gems"
+    },
+    "40896": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "40903": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "40908": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "40909": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "41094": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "41098": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "41106": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "8396": {
+        "name": "Vulture Gizzard"
+    },
+    "1688": {
+        "name": "Long Soft Tail",
+        "class": "Miscellaneous"
+    },
+    "41536": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "41547": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "140286": {
+        "name": "Nightbites",
+        "class": "Consumables"
+    },
+    "140679": {
+        "name": "NeverMelt Ice Cream",
+        "class": "Consumables"
+    },
+    "42415": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42473": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "132224": {
+        "name": "String of Beads",
+        "class": "Miscellaneous"
+    },
+    "42736": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42738": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42744": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "141208": {
+        "name": "Midnight Morel",
+        "class": "Consumables"
+    },
+    "42911": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "174209": {
+        "name": "Encased Arthropod",
+        "class": "Miscellaneous"
+    },
+    "43424": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43536": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "44207": {
+        "name": "Flash-Frozen Flower",
+        "class": "Miscellaneous"
+    },
+    "175954": {
+        "name": "Suffused Horn",
+        "class": "Miscellaneous"
+    },
+    "45740": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "177043": {
+        "name": "Reaped Larion Flank",
+        "class": "Consumables"
+    },
+    "144283": {
+        "name": "Clamshell Heart",
+        "class": "Consumables"
+    },
+    "144285": {
+        "name": "Kelp Art",
+        "class": "Consumables"
+    },
+    "179016": {
+        "name": "Cottage Cheese",
+        "class": "Consumables"
+    },
+    "179300": {
+        "name": "Muck-Hardened Marble",
+        "class": "Miscellaneous"
+    },
+    "113909": {
+        "name": "Tattered Banner",
+        "class": "Miscellaneous"
+    },
+    "113911": {
+        "name": "Trainee's Tarnished Blade",
+        "class": "Miscellaneous"
+    },
+    "113912": {
+        "name": "Flameseer Summoning Components",
+        "class": "Miscellaneous"
+    },
+    "48720": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "180327": {
+        "name": "Emberflea Collection",
+        "class": "Miscellaneous"
+    },
+    "180476": {
+        "name": "Sleep Slime",
+        "class": "Miscellaneous"
+    },
+    "49602": {
+        "name": "Earl Black Tea",
+        "class": "Consumables"
+    },
+    "181247": {
+        "name": "Pointy Stick",
+        "class": "Miscellaneous"
+    },
+    "83065": {
+        "name": "Desecrated Carcass",
+        "class": "Miscellaneous"
+    },
+    "29557": {
+        "name": "Rainbow Feather",
+        "class": "Miscellaneous"
+    },
+    "159873": {
+        "name": "Hatherford Brunost",
+        "class": "Consumables"
+    },
+    "159875": {
+        "name": "Sour Vanilla Skyr",
+        "class": "Consumables"
+    },
+    "159876": {
+        "name": "Boralus Bleu",
+        "class": "Consumables"
+    },
+    "182714": {
+        "name": "Bundle of Leaflets",
+        "class": "Miscellaneous"
+    },
+    "182760": {
+        "name": "Brilliant Azure Orb",
+        "class": "Miscellaneous"
+    },
+    "182763": {
+        "name": "Enormous Jade Pendant",
+        "class": "Miscellaneous"
+    },
+    "101748": {
+        "name": "Spiced Blossom Soup",
+        "class": "Consumables"
+    },
+    "20514": {
+        "name": "Abyssal Signet"
+    },
+    "20770": {
+        "name": "Bubbling Green Ichor",
+        "class": "Miscellaneous"
+    },
+    "43328": {
+        "name": "Extinguished Light of Hope",
+        "class": "Miscellaneous"
+    },
+    "56054": {
+        "name": "Gleaming Flipper",
+        "class": "Miscellaneous"
+    },
+    "187211": {
+        "name": "Chronicle of Cartel Al",
+        "class": "Miscellaneous"
+    },
+    "187408": {
+        "name": "Cartel Purchase Order",
+        "class": "Miscellaneous"
+    },
+    "63312": {
+        "name": "Cool Breeze",
+        "class": "Miscellaneous"
+    },
+    "23841": {
+        "name": "Gnomish Flame Turret",
+        "class": "Consumables"
+    },
+    "43825": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43826": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43827": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "24539": {
+        "name": "Marsh Lichen",
+        "class": "Consumables"
+    },
+    "76630": {
+        "name": "Perfect Bold Pandarian Garnet",
+        "class": "Gems"
+    },
+    "174347": {
+        "name": "Deteriorating Umbral Wing",
+        "class": "Miscellaneous"
+    },
+    "25441": {
+        "name": "Gnarled Boar Tusk",
+        "class": "Miscellaneous"
+    },
+    "128850": {
+        "name": "Chilled Conjured Water",
+        "class": "Consumables"
+    },
+    "189571": {
+        "name": "Golden Saber Hilt",
+        "class": "Miscellaneous"
+    },
+    "92436": {
+        "name": "Mercenary Contract: Druid",
+        "class": "Consumables"
+    },
+    "200767": {
+        "name": "Energized Crystal",
+        "class": "Consumables"
+    },
+    "158794": {
+        "name": "Ivory Tusk",
+        "class": "Miscellaneous"
+    },
+    "60578": {
+        "name": "Spiral Thorn",
+        "class": "Miscellaneous"
+    },
+    "192716": {
+        "name": "Prehistoric Sediment",
+        "class": "Miscellaneous"
+    },
+    "160551": {
+        "name": "Partially Digested Mystery Meat",
+        "class": "Miscellaneous"
+    },
+    "160560": {
+        "name": "Piece of Wreckage",
+        "class": "Consumables"
+    },
+    "62514": {
+        "name": "Cracked Pincer",
+        "class": "Miscellaneous"
+    },
+    "30508": {
+        "name": "Pickled Murloc Head",
+        "class": "Miscellaneous"
+    },
+    "163050": {
+        "name": "Sea-Bone Soup",
+        "class": "Consumables"
+    },
+    "163109": {
+        "name": "Frosted Umbernut Cake",
+        "class": "Consumables"
+    },
+    "163187": {
+        "name": "Abyssal Bitters",
+        "class": "Consumables"
+    },
+    "32455": {
+        "name": "Star's Lament",
+        "class": "Consumables"
+    },
+    "163709": {
+        "name": "Crankchug's Brew",
+        "class": "Consumables"
+    },
+    "32667": {
+        "name": "Bash Ale",
+        "class": "Consumables"
+    },
+    "32722": {
+        "name": "Enriched Terocone Juice",
+        "class": "Consumables"
+    },
+    "65503": {
+        "name": "47\" Tapeworm",
+        "class": "Miscellaneous"
     }
 }
