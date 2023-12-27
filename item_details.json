@@ -33921,5 +33921,113 @@
     "65503": {
         "name": "47\" Tapeworm",
         "class": "Miscellaneous"
+    },
+    "1399": {
+        "name": "Magic Candle",
+        "class": "Consumables"
+    },
+    "169116": {
+        "name": "Dehydrated Nourishment Packet",
+        "class": "Consumables"
+    },
+    "38516": {
+        "name": "Blood-Gorged Thorn",
+        "class": "Miscellaneous"
+    },
+    "39906": {
+        "name": "Delicate Bloodstone",
+        "class": "Gems"
+    },
+    "39999": {
+        "name": "Delicate Scarlet Ruby",
+        "class": "Gems"
+    },
+    "40043": {
+        "name": "Deadly Monarch Topaz",
+        "class": "Gems"
+    },
+    "204310": {
+        "name": "Mycelial Threads",
+        "class": "Miscellaneous"
+    },
+    "9681": {
+        "name": "Grilled King Crawler Legs",
+        "class": "Consumables"
+    },
+    "44608": {
+        "name": "Dalaran Swiss",
+        "class": "Consumables"
+    },
+    "143633": {
+        "name": "Masterful Mana Buns",
+        "class": "Consumables"
+    },
+    "143635": {
+        "name": "Hasty Hummus",
+        "class": "Consumables"
+    },
+    "9186": {
+        "name": "Mind-numbing Poison III",
+        "class": "Miscellaneous"
+    },
+    "178538": {
+        "name": "Beetle Juice",
+        "class": "Consumables"
+    },
+    "179267": {
+        "name": "Endmire Glowcap",
+        "class": "Consumables"
+    },
+    "184201": {
+        "name": "Slushy Water",
+        "class": "Consumables"
+    },
+    "120331": {
+        "name": "Fancy Pocket Mirror",
+        "class": "Miscellaneous"
+    },
+    "153570": {
+        "name": "\"Magic\" Rock",
+        "class": "Miscellaneous"
+    },
+    "187212": {
+        "name": "Hyperlight Moccasins",
+        "class": "Miscellaneous"
+    },
+    "76627": {
+        "name": "Perfect Precise Pandarian Garnet",
+        "class": "Gems"
+    },
+    "92058": {
+        "name": "Portal Fuel: Shrine of Two Moons",
+        "class": "Consumables"
+    },
+    "92430": {
+        "name": "Portal Reagents: Shrine of Seven Stars",
+        "class": "Consumables"
+    },
+    "128013": {
+        "name": "Taladite Amplifier",
+        "class": "Trade Goods"
+    },
+    "162110": {
+        "name": "Disenchanting Rod",
+        "class": "Consumables"
+    },
+    "162112": {
+        "name": "Kaleidoscopic Lens",
+        "class": "Consumables"
+    },
+    "162113": {
+        "name": "Potion of Herb Tracking",
+        "class": "Consumables"
+    },
+    "163057": {
+        "name": "Honey and Sausage Mash",
+        "class": "Consumables"
+    },
+    "163159": {
+        "name": "Golden Sunrise",
+        "class": "Consumables"
     }
 }
