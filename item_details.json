@@ -34029,5 +34029,157 @@
     "163159": {
         "name": "Golden Sunrise",
         "class": "Consumables"
+    },
+    "200817": {
+        "name": "Azure Splinters",
+        "class": "Consumables"
+    },
+    "200833": {
+        "name": "Titan Watcher Replica",
+        "class": "Consumables"
+    },
+    "200851": {
+        "name": "Self-Trimming Bonsai",
+        "class": "Consumables"
+    },
+    "38583": {
+        "name": "Fetid Ichor",
+        "class": "Miscellaneous"
+    },
+    "40151": {
+        "name": "Purified Dreadstone",
+        "class": "Gems"
+    },
+    "171346": {
+        "name": "Letters from the City",
+        "class": "Miscellaneous"
+    },
+    "41108": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "205043": {
+        "name": "Shadowed Belt Clasp",
+        "class": "Consumables"
+    },
+    "42410": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "132211": {
+        "name": "Collection of Dust",
+        "class": "Consumables"
+    },
+    "42735": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42908": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42956": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42966": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43354": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43356": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43359": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "11390": {
+        "name": "Broken Bat Fang",
+        "class": "Miscellaneous"
+    },
+    "11402": {
+        "name": "Sleek Bat Pelt",
+        "class": "Miscellaneous"
+    },
+    "158736": {
+        "name": "Trophy Antlers",
+        "class": "Miscellaneous"
+    },
+    "46003": {
+        "name": "Worthless Piece of Orange Glass",
+        "class": "Miscellaneous"
+    },
+    "180385": {
+        "name": "Bats Wing",
+        "class": "Miscellaneous"
+    },
+    "17028": {
+        "name": "Holy Candle",
+        "class": "Miscellaneous"
+    },
+    "17035": {
+        "name": "Stranglethorn Seed",
+        "class": "Miscellaneous"
+    },
+    "140296": {
+        "name": "Gummy Wyrm",
+        "class": "Consumables"
+    },
+    "43326": {
+        "name": "Tusk Warmer",
+        "class": "Miscellaneous"
+    },
+    "43365": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43367": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43368": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "187180": {
+        "name": "Pitted Diaphanous Wing",
+        "class": "Miscellaneous"
+    },
+    "168019": {
+        "name": "Obsidian Sigilstone",
+        "class": "Miscellaneous"
+    },
+    "44766": {
+        "name": "Slime-Drenched Scale",
+        "class": "Miscellaneous"
+    },
+    "159750": {
+        "name": "Tangy Haw'liday Cider",
+        "class": "Consumables"
+    },
+    "63247": {
+        "name": "Crumpled Parchment",
+        "class": "Miscellaneous"
+    },
+    "162552": {
+        "name": "Zul's Gin",
+        "class": "Consumables"
+    },
+    "162575": {
+        "name": "Bwonzombie",
+        "class": "Consumables"
+    },
+    "163100": {
+        "name": "Kul Tiran Meatballs",
+        "class": "Consumables"
+    },
+    "32668": {
+        "name": "Dos Ogris",
+        "class": "Consumables"
     }
 }

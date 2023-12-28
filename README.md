@@ -25,10 +25,10 @@ All of the data in the data folder looks like:
 },
 ```
 ```
-Total rows: 33,818,000
-Rows missing name: 2,576
-Rows missing class: 3,286,832
-Rows missing both name and class: 2,576
+Total rows: 40,691,536
+Rows missing name: 2,988
+Rows missing class: 3,938,171
+Rows missing both name and class: 2,988
 ```
 
 If anyone finds any issues with the data please let me know!
