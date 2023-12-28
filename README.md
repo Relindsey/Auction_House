@@ -40,7 +40,9 @@ The shape of the data in the data folder:
     ]
 }
 
-Converting the csv to a dataframe, and then running: 'df['datetime'] = pd.to_datetime(df['datetime'])' will give you this to work with:
+Converting the csv to a dataframe, and then running: 
+'df['datetime'] = pd.to_datetime(df['datetime'])' 
+will give you this to work with:
 
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 40691536 entries, 0 to 40691535
