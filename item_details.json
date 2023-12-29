@@ -34181,5 +34181,113 @@
     "32668": {
         "name": "Dos Ogris",
         "class": "Consumables"
+    },
+    "45793": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "69244": {
+        "name": "Ice Cream Bar",
+        "class": "Consumables"
+    },
+    "36789": {
+        "name": "Cracked Horn",
+        "class": "Miscellaneous"
+    },
+    "36824": {
+        "name": "Articulated Talon",
+        "class": "Miscellaneous"
+    },
+    "38517": {
+        "name": "Mesmerizing Flower",
+        "class": "Miscellaneous"
+    },
+    "39549": {
+        "name": "Pustulant Moss",
+        "class": "Miscellaneous"
+    },
+    "41165": {
+        "name": "Saronite Razorheads",
+        "class": "Miscellaneous"
+    },
+    "172504": {
+        "name": "Bottled Tidebreak Water",
+        "class": "Miscellaneous"
+    },
+    "132235": {
+        "name": "Intact Eyeball",
+        "class": "Consumables"
+    },
+    "141206": {
+        "name": "Slice of Night Delight",
+        "class": "Consumables"
+    },
+    "43429": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "10922": {
+        "name": "Empty Poison Vial",
+        "class": "Consumables"
+    },
+    "11410": {
+        "name": "Savage Bear Claw",
+        "class": "Miscellaneous"
+    },
+    "77273": {
+        "name": "Small Rice Cake",
+        "class": "Consumables"
+    },
+    "17344": {
+        "name": "Candy Cane",
+        "class": "Consumables"
+    },
+    "83120": {
+        "name": "Amber Medallion",
+        "class": "Miscellaneous"
+    },
+    "29558": {
+        "name": "Charged Scale",
+        "class": "Miscellaneous"
+    },
+    "29561": {
+        "name": "Dragon Femur",
+        "class": "Miscellaneous"
+    },
+    "29566": {
+        "name": "Raptor Blood Feather",
+        "class": "Miscellaneous"
+    },
+    "20844": {
+        "name": "Empty Poison Vial",
+        "class": "Consumables"
+    },
+    "43361": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "200764": {
+        "name": "Slimy Shinies",
+        "class": "Consumables"
+    },
+    "27443": {
+        "name": "Steam Pump Debris",
+        "class": "Miscellaneous"
+    },
+    "200847": {
+        "name": "Frail Shield",
+        "class": "Consumables"
+    },
+    "192713": {
+        "name": "Pharyngeal Jaw",
+        "class": "Miscellaneous"
+    },
+    "160581": {
+        "name": "Vulture Egg Shell",
+        "class": "Miscellaneous"
+    },
+    "160579": {
+        "name": "Digested Krolusk Chitin",
+        "class": "Miscellaneous"
     }
 }
