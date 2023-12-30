@@ -34289,5 +34289,77 @@
     "160579": {
         "name": "Digested Krolusk Chitin",
         "class": "Miscellaneous"
+    },
+    "36808": {
+        "name": "Bent Ivory Tusk",
+        "class": "Miscellaneous"
+    },
+    "20500": {
+        "name": "Light Silithid Carapace",
+        "class": "Miscellaneous"
+    },
+    "4880": {
+        "name": "Broken Spear",
+        "class": "Miscellaneous"
+    },
+    "169669": {
+        "name": "Rustbolt Rootbeer",
+        "class": "Consumables"
+    },
+    "172144": {
+        "name": "Glittering Stinger",
+        "class": "Miscellaneous"
+    },
+    "140202": {
+        "name": "Smoked 'Grass Fed' Elderhorn",
+        "class": "Consumables"
+    },
+    "178177": {
+        "name": "Consumptive Brambles",
+        "class": "Miscellaneous"
+    },
+    "179013": {
+        "name": "Smoked Muckfish",
+        "class": "Consumables"
+    },
+    "182766": {
+        "name": "Golden Egg",
+        "class": "Miscellaneous"
+    },
+    "186661": {
+        "name": "Splintered Horseshoe",
+        "class": "Miscellaneous"
+    },
+    "23975": {
+        "name": "Damaged Ravager Fang",
+        "class": "Miscellaneous"
+    },
+    "25408": {
+        "name": "Shiny Tail Hair",
+        "class": "Miscellaneous"
+    },
+    "25410": {
+        "name": "Damaged Hoof",
+        "class": "Miscellaneous"
+    },
+    "200775": {
+        "name": "Self-Luminous Orb",
+        "class": "Consumables"
+    },
+    "28466": {
+        "name": "Brilliant Tourmaline",
+        "class": "Gems"
+    },
+    "44762": {
+        "name": "Fat-Stained Fur",
+        "class": "Miscellaneous"
+    },
+    "44767": {
+        "name": "Gelid Nerve Fluid",
+        "class": "Miscellaneous"
+    },
+    "192725": {
+        "name": "Thin Blubber",
+        "class": "Miscellaneous"
     }
 }

@@ -62,11 +62,11 @@ memory usage: 2.4+ GB
 
 ```
 ```
-As of 12/29, 11AM Central:
-Total rows: 46,568,732
-Rows missing name: 3,238
-Rows missing class: 4,434,558
-Rows missing both name and class: 3,238
+As of 12/30 update:
+Total rows: 54,140,839
+Rows missing name: 3,601
+Rows missing class: 5,072,652
+Rows missing both name and class: 3,601
 ```
 
 If anyone finds any issues with the data please let me know!
