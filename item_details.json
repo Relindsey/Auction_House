@@ -34361,5 +34361,125 @@
     "192725": {
         "name": "Thin Blubber",
         "class": "Miscellaneous"
+    },
+    "2947": {
+        "name": "Broken Small Throwing Knife",
+        "class": "Miscellaneous"
+    },
+    "200107": {
+        "name": "Tarnished Engagement Ring",
+        "class": "Miscellaneous"
+    },
+    "183204": {
+        "name": "Manual of Bonebending Methods",
+        "class": "Miscellaneous"
+    },
+    "169117": {
+        "name": "Improbable Mechano-Chicken Wings",
+        "class": "Consumables"
+    },
+    "41095": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "41103": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "140201": {
+        "name": "'Organic' Azsunian Grapes",
+        "class": "Consumables"
+    },
+    "140205": {
+        "name": "'Fresh' Moist Azsunian Feta",
+        "class": "Consumables"
+    },
+    "140206": {
+        "name": "Grilled 'Wild' Mini Rays",
+        "class": "Consumables"
+    },
+    "140207": {
+        "name": "'Free-Range' Honey-Glazed Ham",
+        "class": "Consumables"
+    },
+    "42741": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "173912": {
+        "name": "Oozing Vocal Sac",
+        "class": "Miscellaneous"
+    },
+    "43087": {
+        "name": "Crisp Dalaran Apple",
+        "class": "Consumables"
+    },
+    "43416": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43423": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43427": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43544": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "44076": {
+        "name": "Swift Starflare Diamond",
+        "class": "Gems"
+    },
+    "178122": {
+        "name": "Crematoric Residue",
+        "class": "Miscellaneous"
+    },
+    "178547": {
+        "name": "Questionable Fried Poultry",
+        "class": "Consumables"
+    },
+    "180340": {
+        "name": "Dark Deceits and Diversions",
+        "class": "Miscellaneous"
+    },
+    "182756": {
+        "name": "Silver Winged Bust",
+        "class": "Miscellaneous"
+    },
+    "120271": {
+        "name": "Extra Large Grooming Comb",
+        "class": "Miscellaneous"
+    },
+    "25703": {
+        "name": "Zhevra Leather",
+        "class": "Miscellaneous"
+    },
+    "200781": {
+        "name": "Rejuvenating Ashes",
+        "class": "Consumables"
+    },
+    "27932": {
+        "name": "Razor Claw",
+        "class": "Miscellaneous"
+    },
+    "27933": {
+        "name": "Serrated Tooth",
+        "class": "Miscellaneous"
+    },
+    "136559": {
+        "name": "Imp Chip Cookie",
+        "class": "Consumables"
+    },
+    "163686": {
+        "name": "A Double Eyepatch",
+        "class": "Miscellaneous"
+    },
+    "163786": {
+        "name": "Filtered Gloomwater",
+        "class": "Consumables"
     }
 }
