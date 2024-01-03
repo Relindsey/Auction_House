@@ -1,5 +1,6 @@
 #File(s) to big for GitHub
 commodities_data.csv
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
