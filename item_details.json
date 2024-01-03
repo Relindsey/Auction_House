@@ -34481,5 +34481,177 @@
     "163786": {
         "name": "Filtered Gloomwater",
         "class": "Consumables"
+    },
+    "66946": {
+        "name": "Cracked Dragonmaw Helmet",
+        "class": "Miscellaneous"
+    },
+    "67252": {
+        "name": "Kaja'mite Flakes",
+        "class": "Miscellaneous"
+    },
+    "20016": {
+        "name": "Trophy Raptor Skull",
+        "class": "Miscellaneous"
+    },
+    "169956": {
+        "name": "Crunchy Seaweed Chips",
+        "class": "Consumables"
+    },
+    "36797": {
+        "name": "Massive Scaly Tail",
+        "class": "Miscellaneous"
+    },
+    "36798": {
+        "name": "Scraped Shell Fragment",
+        "class": "Miscellaneous"
+    },
+    "5364": {
+        "name": "Dry Salt Lick",
+        "class": "Miscellaneous"
+    },
+    "38350": {
+        "name": "Winterfin \"Depth Charge\"",
+        "class": "Consumables"
+    },
+    "39960": {
+        "name": "Deadly Huge Citrine",
+        "class": "Gems"
+    },
+    "39989": {
+        "name": "Energized Dark Jade",
+        "class": "Gems"
+    },
+    "139345": {
+        "name": "Rat Hands",
+        "class": "Consumables"
+    },
+    "41368": {
+        "name": "Expired Voodoo Power Core",
+        "class": "Miscellaneous"
+    },
+    "41496": {
+        "name": "Perfect Glinting Shadow Crystal",
+        "class": "Gems"
+    },
+    "60489": {
+        "name": "Translucent Ectoplasm",
+        "class": "Miscellaneous"
+    },
+    "42397": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42399": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42466": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "42972": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "43546": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "175962": {
+        "name": "Dreamwood Antler",
+        "class": "Miscellaneous"
+    },
+    "110800": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "45775": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "46000": {
+        "name": "Worthless Piece of Red Glass",
+        "class": "Miscellaneous"
+    },
+    "80584": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "178923": {
+        "name": "Fractured Rubble",
+        "class": "Miscellaneous"
+    },
+    "180310": {
+        "name": "Fluttering Stone Wings",
+        "class": "Miscellaneous"
+    },
+    "180475": {
+        "name": "Webbed Foot",
+        "class": "Miscellaneous"
+    },
+    "180880": {
+        "name": "Gory Keepsake",
+        "class": "Miscellaneous"
+    },
+    "42904": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "52339": {
+        "name": "Flawless Pearl",
+        "class": "Trade Goods"
+    },
+    "52575": {
+        "name": "Slave Pits Cage Key",
+        "class": "Miscellaneous"
+    },
+    "54627": {
+        "name": "Wilted Flower",
+        "class": "Miscellaneous"
+    },
+    "22148": {
+        "name": "Wild Quillvine",
+        "class": "Miscellaneous"
+    },
+    "87895": {
+        "name": "Charred Glyph",
+        "class": "Miscellaneous"
+    },
+    "88530": {
+        "name": "Bubbling Beverage",
+        "class": "Consumables"
+    },
+    "4583": {
+        "name": "Thick Furry Mane",
+        "class": "Miscellaneous"
+    },
+    "187191": {
+        "name": "Vi'ller's Preserved Eye",
+        "class": "Miscellaneous"
+    },
+    "187198": {
+        "name": "Xy'le Date",
+        "class": "Miscellaneous"
+    },
+    "56161": {
+        "name": "Bow-Grade Tail Hair",
+        "class": "Miscellaneous"
+    },
+    "60488": {
+        "name": "Scaly Tissue",
+        "class": "Miscellaneous"
+    },
+    "38584": {
+        "name": "Masticated Skull",
+        "class": "Miscellaneous"
+    },
+    "63323": {
+        "name": "Pry Stone",
+        "class": "Miscellaneous"
+    },
+    "162563": {
+        "name": "Succulent Dunemelon",
+        "class": "Consumables"
     }
 }
