@@ -76,19 +76,4 @@ Rows missing both name and class: 6,902
 
 If anyone finds any issues with the data please let me know!
 
-The raw-data folder contains the unadulterated WoW API responses. To use this data
-instead see process_new_data.sh lines 43-51:
 
-    # Run Python scripts
-    echo "Running get_unique_item_ids.py..."
-    python get_unique_item_ids.py
-
-    echo "Running get_item_details.py..."
-    python get_item_details.py
-
-    echo "Running add_timestamp_and_details.py..."
-    python add_timestamp_and_details.py
-
-Since no more data is being retrieved there are no possible new item ids
-or item details to look up. Running add_timestamp_and_details.py will process
-the raw data into the data folder.
