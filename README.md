@@ -56,7 +56,7 @@ Analysis of WoW Auction House Prices
   - 27,309 records showed a unit_price between 2,000,000 and 10,000,000
   - the rest are priced bellow 2,000,000
 
-### "datetimn" column : 
+### "datetime" column : 
   - Plotting this column showed a hill like decreasing graph
   - Divided this datetime column into date and time columns
   - **date column**
